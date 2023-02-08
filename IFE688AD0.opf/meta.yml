@@ -1,0 +1,16 @@
+id: IFE688AD0
+default_language: de
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:06:59.743190
+last_modified: 2023-02-08 16:06:59.743309
+source_metadata:
+  title: 'Mātṛceṭa: Varṇārhavarṇastotra'
+  language: de
+bases:
+  '8189':
+    base_file: 8189.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

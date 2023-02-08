@@ -1,0 +1,75 @@
+id: 7875cf9cc1294586b609891f13e93d32
+annotation_type: index
+revision: '00001'
+annotations:
+  ba3af594ffef4203bb2e5f97ed8f0e88:
+    base: 8189.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 36
+    - title: Preface
+      span:
+        start: 37
+        end: 47
+    - title: Chapter 1
+      span:
+        start: 48
+        end: 5275
+    - title: Chapter 2
+      span:
+        start: 5276
+        end: 18776
+    - title: Chapter 3
+      span:
+        start: 18777
+        end: 23019
+    - title: Chapter 4
+      span:
+        start: 23020
+        end: 27516
+    - title: Chapter 5
+      span:
+        start: 27517
+        end: 32706
+    - title: Chapter 6
+      span:
+        start: 32707
+        end: 39721
+    - title: Chapter 7
+      span:
+        start: 39722
+        end: 43490
+    - title: Chapter 8
+      span:
+        start: 43491
+        end: 49259
+    - title: Chapter 9
+      span:
+        start: 49260
+        end: 53726
+    - title: Chapter 10
+      span:
+        start: 53727
+        end: 59352
+    - title: Chapter 11
+      span:
+        start: 59353
+        end: 64613
+    - title: Chapter 12
+      span:
+        start: 64614
+        end: 67044
+    - title: Colophon
+      span:
+        start: 67045
+        end: 67084
+    - title: Chapter 13
+      span:
+        start: 67085
+        end: 72690
+    - title: Colophon
+      span:
+        start: 72691
+        end: 72717
